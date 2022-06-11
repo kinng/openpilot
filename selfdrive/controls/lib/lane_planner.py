@@ -14,7 +14,7 @@ TRAJECTORY_SIZE = 33
 # so a path offset is not needed
 PATH_OFFSET = 0.00
 if TICI:
-  CAMERA_OFFSET = -0.13
+  CAMERA_OFFSET = -0.05
 else:
   CAMERA_OFFSET = 0.0
 
